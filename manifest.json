@@ -1,0 +1,10 @@
+{
+    "name": "YouSpot",
+    "version": "1.0.0",
+    "description": "Will allow you to add video's being played on youtube to a spotify playlist.",
+    "manifest_version": 2,
+    "background": {
+        "persistent": false,
+        "scripts": ["js/clear_history.js"]
+    },
+}
